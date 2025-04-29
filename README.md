@@ -19,7 +19,7 @@ here’s what i’ve been building over the years:
 *25yrs:*  
 - product lead at [scherer ingenieure](https://www.scherer-ingenieure.com/), rebuilt the front-end for clarity, structure, and a unified visual language
 - integrated deepseek in a website’s local-storage search using [onnx](https://huggingface.co/onnxruntime/DeepSeek-R1-Distill-ONNX)
-- did LoRA training in flux and custom stable-diffusion safetensors
+- experimented with LoRA training in flux and custom stable-diffusion safetensors
 - built workflow dashboards and ux improvements that boosted team efficiency and pivoted toward resilient, behind-the-scenes systems over showcase pieces
 
 *24yrs:*  
