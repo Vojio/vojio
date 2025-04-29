@@ -1,6 +1,6 @@
 ## timeline highlights
 
-i’m [markus](https://read.cv/markusm), an ai-first product designer and engineer. i blend industrial-design rigor with prompt-engineered workflows to prototype and ship features faster. by letting ai handle routine code and tooling, i stay focused on thoughtful ux, secure systems, and real-world impact.
+i’m [markus](https://read.cv/markusm), a designer focused on clean interfaces, smart systems, and tools that feel good to use. i work across digital and physical, often with ai in the mix. i like building things that are sharp, intuitive, and a bit unexpected. always up for collaborating with founders, teams, and anyone working on thoughtful products.
 
 here’s what i’ve been building over the years:
 
