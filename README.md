@@ -1,6 +1,6 @@
 ## timeline highlights
 
-i’m [markus](https://read.cv/markusm), a designer focused on clean interfaces, smart systems, and tools that feel good to use. i work across digital and physical, often with ai in the mix. i like building things that are sharp, intuitive, and a bit unexpected. always up for collaborating with founders, teams, and anyone working on thoughtful products.
+i’m [markus](https://read.cv/markusm), a designer crafting clean, intuitive, human interfaces and ai-powered systems. i use ai to create complete experiences and uncover unexpected solutions, and i’m always up for collaborating with founders, teams, and anyone working on thoughtful products.
 
 here’s what i’ve been building over the years:
 
