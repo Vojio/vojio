@@ -23,7 +23,7 @@ here’s what i’ve been building over the years:
 - built workflow dashboards and ux improvements that boosted team efficiency and pivoted toward resilient, behind-the-scenes systems over showcase pieces
 
 *24yrs:*  
-- designed the app and landing page for [photure](https://webthreefyi.substack.com/p/photure-decentralized-global-news), a p2p media platform minting uncensored nfts; team hit 30k downloads and raised \$765k at a \$5m cap  
+- designed the app and landing page for [photure](https://ethglobal.com/showcase/photure-5femv), a p2p media platform minting uncensored nfts; team hit 30k downloads and raised \$765k at a \$5m cap  
 - freelance at *the studio dao*, collaborating with a yc + techstars mentor on site and brand  
 - wove ai-assisted flows deeper into my design stack  
 
