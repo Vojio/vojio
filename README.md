@@ -1,6 +1,6 @@
 ## timeline highlights
 
-i’m [markus](https://read.cv/markusm), an industrial-designer-turned digital product designer. the same eye for volumes, tolerances, and user flow now drives interfaces and systems that bridge digital and physical space. i build things that feel intuitive, unexpected, and thoughtful, and i’m always up for teaming with founders or anyone pushing bold ideas forward.
+i’m [markus](https://read.cv/markusm), an ai-first product designer and engineer. i blend industrial-design rigor with prompt-engineered workflows to prototype and ship features faster. by letting ai handle routine code and tooling, i stay focused on thoughtful ux, secure systems, and real-world impact.
 
 here’s what i’ve been building over the years:
 
