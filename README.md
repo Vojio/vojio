@@ -19,7 +19,9 @@ here’s what i’ve been building over the years:
 *25yrs:*  
 - product lead at scherer ingenieure, rebuilt the front-end for clarity, structure, and a unified visual language  
 - built workflow dashboards and ux tweaks that lifted team efficiency  
-- shifted focus toward resilient, behind-the-scenes systems over showcase pieces  
+- shifted focus toward resilient, behind-the-scenes systems over showcase pieces
+- integrated deepseek in a website’s local-storage search using [onnx](https://huggingface.co/onnxruntime/DeepSeek-R1-Distill-ONNX)
+- did LoRA training in flux and custom stable-diffusion safetensors
 
 *24yrs:*  
 - designed the app for [photure](https://www.producthunt.com/products/photure), a p2p media platform minting uncensored nfts; team hit 30k downloads and raised \$765k at a \$5m cap  
