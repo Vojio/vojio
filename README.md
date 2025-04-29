@@ -6,7 +6,7 @@ here’s what i’ve been building over the years:
 
 *27yrs-now:*  
 - built [shamir-secret-manager](https://github.com/vojio/shamir-secret-manager), a 500-line python cli for splitting and recovering seed phrases with shamir secret sharing  
-- crafting [obliso](https://www.obliso.com/), a rust + swift macos/ios app for easy and secure n-of-k seed storage  
+- crafting [obliso](https://www.obliso.com/), a rust + swift macos/ios app for easy and secure n-of-k seed management  
 - prototyping [mondecai](https://mondec.ai/), a local-first ai that plays conversations via monte-carlo search, private beta  
 - game creator + community scout at [rosebud.ai](https://rosebud.ai/), shipping touch-first games with generative pipelines  
 
