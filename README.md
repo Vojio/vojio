@@ -1,6 +1,6 @@
 ## timeline highlights
 
-i’m [markus](https://read.cv/markusm), a designer crafting clean, intuitive, human interfaces and ai-powered systems. i use ai to create complete experiences and uncover unexpected solutions, and i’m always up for collaborating with founders, teams, and anyone working on thoughtful products.
+i’m [markus](https://read.cv/markusm), i design clean, intuitive, human products and use ai to compile and power every experience. i’m ready to collaborate with founders, teams, and anyone building something new.
 
 here’s what i’ve been building over the years:
 
