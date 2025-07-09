@@ -1,6 +1,6 @@
 ## timeline highlights
 
-i’m [markus](https://read.cv/markusm), i design clean, intuitive, human products and use ai to compile and power every experience. i’m ready to collaborate with founders, teams, and anyone building something new.
+i’m [markus](https://read.cv/markusm), i design clean, intuitive, human products and use ai to compile and power every experience. i’m ready to collaborate with founders, teams, and anyone building something.
 
 here’s what i’ve been building over the years:
 
