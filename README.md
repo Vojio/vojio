@@ -53,4 +53,4 @@ here’s what i’ve been building over the years:
 - ran private minecraft and wow realms, managing plugins and small friend communities  
 - built micro-sites and experiments (html, css, first js); all offline now, each sharpened my front-end instincts  
 
-the faster everything accelerates, the more i care about clarity, friction, and form. i’m leaning in, blending design, code, and ai to build things no single role could fully define.
+the faster everything accelerates, the more i care about clarity, friction, and form.
