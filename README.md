@@ -36,7 +36,7 @@ here’s what i’ve been building over the years:
 - freelance branding + ui/ux for **hdghog**, a decentralised exchange led by an early facebook novi founder  
 
 *21–22yrs:*  
-- designed, built, and oversaw fabrication of a [smart mushroom cultivation unit](https://germandesigngraduates.com/fertigungsgerechte-planung-einer-intelligenten-pilzkultivierungseinheit-production-oriented-planning-of-an-intelligent-mushroom-cultivation-unit/) for my bachelor’s thesis  
+- designed, built, and oversaw fabrication of a [smart mushroom cultivation unit](https://germandesigngraduates.com/fertigungsgerechte-planung-einer-intelligenten-pilzkultivierungseinheit-production-oriented-planning-of-an-intelligent-mushroom-cultivation-unit/) for my bachelor’s thesis. [video demo](https://www.youtube.com/watch?v=cnlimfcL9g0)
 - produced cad visuals for an exhibition build for [sonnleitner](https://www.sonnleitner.de/), later realised at bau19 munich  
 
 *19–21yrs:*  
