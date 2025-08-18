@@ -38,7 +38,7 @@ here’s what i’ve been building over the years:
 
 *21–22yrs:*  
 - designed, built, and oversaw fabrication of a [smart mushroom cultivation unit](https://germandesigngraduates.com/fertigungsgerechte-planung-einer-intelligenten-pilzkultivierungseinheit-production-oriented-planning-of-an-intelligent-mushroom-cultivation-unit/) for my bachelor’s thesis. [video demo](https://www.youtube.com/watch?v=cnlimfcL9g0)
-- designed an exhibition build and produced cad visual for [sonnleitner](https://www.sonnleitner.de/), later realised at [bau 2019](https://bau-muenchen.com/de/messe/) in munich  
+- designed an exhibition build and produced cad visuals for [sonnleitner](https://www.sonnleitner.de/), later realised at [bau 2019](https://bau-muenchen.com/de/messe/) in munich  
 
 *19–21yrs:*  
 - switched to industrial design to fuse spatial thinking with rapid prototyping  
