@@ -46,7 +46,7 @@ here’s what i’ve been building over the years:
 - deepened systems thinking across ui/ux and digital-physical intersections  
 
 *17–18yrs:*  
-- declined architecture at [tum](https://www.tum.de/) after realising code iterates faster  
+- started and stopped architecture at [tum](https://www.tum.de/) after realising code iterates faster  
 - was one of the earliest testers for christian selig’s [apollo](https://apolloapp.io/), sending [feedback](https://www.reddit.com/r/apolloapp/comments/31cg5a/report_bugs/) that shipped in the reddit client used by millions
 - one year computer science: grasped coding basics
 - interned at [communiaсs](https://www.communiacs.de/), creating and animating [svg-icons](https://utfs.io/f/wrTz33Q14LG0Znvd5whIbR76cUno2VGAgOuXqBDiNTpCstlE), wireframes, and visual concepts for e-commerce sites like [eterna](https://www.eterna.de/de/), [bavaria-yachts](https://www.bavariayachts.com/de-de/) and [knaus](https://www.knaus.com/de-de/wohnmobile/)
