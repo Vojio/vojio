@@ -31,7 +31,7 @@ here’s what i’ve been building over the years:
 
 *23yrs:*  
 - 0→1 product design at [plasmo](https://www.plasmo.com); platform now voted [best chrome extension](https://www.producthunt.com/categories/chrome-extensions) (producthunt 2024 + 2025) with 11.6k stars on [github](https://github.com/plasmohq/plasmo)
-- built **pylearn**, a beginner-friendly coding app prototype  
+- built [pylearn](https://utfs.io/f/wrTz33Q14LG0guew6eI87EKvYsV4ru082OLNpdbxMUQaTBA3), a beginner-friendly coding app prototype  
 - collaborated with [constitution dao](https://www.constitutiondao.com/), a one-off dao that crowdfunded \$47m to bid on a u.s. constitution copy
 - freelance branding + ui/ux for **hdghog**, a decentralised exchange led by an early facebook novi founder  
 
