@@ -8,7 +8,8 @@ here’s what i’ve been building over the years:
 - built [shamir-secret-manager](https://github.com/vojio/shamir-secret-manager), a 500-line python cli for splitting and recovering seed phrases with shamir secret sharing  
 - crafting [obliso](https://www.obliso.com/), a rust + swift macos/ios app for easy and secure n-of-k seed management  
 - prototyping [mondecai](https://mondec.ai/), a local-first ai that plays conversations via monte-carlo search, private beta  
-- game creator + community scout at [rosebud.ai](https://rosebud.ai/), shipping touch-first games with generative pipelines  
+- game creator + community scout at [rosebud.ai](https://rosebud.ai/), shipping touch-first games with generative pipelines
+- started making music -> [Makke Macht](https://soundcloud.com/makke-macht)
 
 *26yrs:*  
 - shipped a minimal [bitcoin wallet demo](https://vojio-software.vercel.app/) with live data using [srcl](https://github.com/vojio/sacred-software) terminal ui components  
