@@ -15,7 +15,8 @@ here’s what i’ve been building over the years:
 - shipped a minimal [bitcoin wallet demo](https://vojio-software.vercel.app/) with live data using [srcl](https://github.com/vojio/sacred-software) terminal ui components  
 - designed and launched a [jobs web-app](https://www.scherer-ingenieure.com/jobsuche) for scherer ingenieure helping high-skill engineers find roles  
 - spun up tooling and visual frameworks for micro ai products  
-- explored brand systems for studios and solo builders  
+- explored brand systems for studios and solo builders
+- built a super minimal [bitcoin address checker](https://kzminr0l0ow4ce3qbdyb.lite.vusercontent.net/)
 
 *25yrs:*  
 - product lead at [scherer ingenieure](https://www.scherer-ingenieure.com/), rebuilt the front-end for clarity, structure, and a unified visual language
