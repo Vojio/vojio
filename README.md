@@ -28,7 +28,7 @@ here’s what i’ve been building over the years:
 - designed the app and landing page for [photure](https://ethglobal.com/showcase/photure-5femv), a p2p media platform minting uncensored nfts; team hit 30k downloads and raised \$765k at a \$5m cap  
 - freelance at *the studio dao*, collaborating with a yc + techstars mentor on site and brand  
 - wove ai-assisted flows deeper into my design stack
-- designed an experimental [meditation product](https://www.youtube.com/watch?v=j4wnWyND8E8)
+- designed an experimental [meditation device](https://www.youtube.com/watch?v=j4wnWyND8E8) which combines haptics + sound
 
 *23yrs:*  
 - 0→1 product design at [plasmo](https://www.plasmo.com); platform now voted [best chrome extension](https://www.producthunt.com/categories/chrome-extensions) (producthunt 2024 + 2025) with 11.6k stars on [github](https://github.com/plasmohq/plasmo)
