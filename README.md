@@ -34,7 +34,7 @@ here’s what i’ve been building over the years:
 - 0→1 product design at [plasmo](https://www.plasmo.com); platform now voted [best chrome extension](https://www.producthunt.com/categories/chrome-extensions) (producthunt 2024 + 2025) with 12.2k stars on [github](https://github.com/plasmohq/plasmo)
 - built [pylearn](https://utfs.io/f/wrTz33Q14LG0guew6eI87EKvYsV4ru082OLNpdbxMUQaTBA3), a beginner-friendly coding app prototype  
 - collaborated with [constitution dao](https://www.constitutiondao.com/), a one-off dao that crowdfunded \$47m to bid on a u.s. constitution copy
-- freelance branding + ui/ux for **hdghog**, a decentralised exchange led by an early facebook novi founder  
+- freelance branding + ui/ux for **hdghog**, a decentralised exchange led by an early facebook novi developer  
 
 *21–22yrs:*  
 - designed, built, and oversaw fabrication of a [smart mushroom cultivation unit](https://germandesigngraduates.com/fertigungsgerechte-planung-einer-intelligenten-pilzkultivierungseinheit-production-oriented-planning-of-an-intelligent-mushroom-cultivation-unit/) for my bachelor’s thesis. [video demo](https://www.youtube.com/watch?v=cnlimfcL9g0)
