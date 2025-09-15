@@ -10,6 +10,7 @@ here’s what i’ve been building over the years:
 - prototyping [mondecai](https://mondec.ai/), a local-first ai that plays conversations via monte-carlo search, private beta  
 - game creator + community scout at [rosebud.ai](https://rosebud.ai/), shipping touch-first games with generative pipelines
 - started making music -> [makke macht](https://soundcloud.com/makke-macht)
+- designed & built a lightweight next.js [microsite (Nowka+Forster)](https://d8.nowka-forster.de) to secure funding for an innovative industrial signage system
 
 *26yrs:*  
 - shipped a minimal [bitcoin wallet demo](https://vojio-software.vercel.app/) with live data using [srcl](https://github.com/vojio/sacred-software) terminal ui components  
