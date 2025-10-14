@@ -10,7 +10,8 @@ here’s what i’ve been building over the years:
 - prototyping [mondecai](https://mondec.ai/), a local-first ai that plays conversations via monte-carlo search, private beta  
 - game creator + community scout at [rosebud.ai](https://rosebud.ai/), shipping touch-first games with generative pipelines
 - started making music -> [makke macht](https://soundcloud.com/makke-macht)
-- designed & built a lightweight next.js [microsite (Nowka+Forster)](https://d8.nowka-forster.de) to secure funding for an innovative industrial signage system
+- contract work: designed & built a lightweight next.js [microsite (Nowka+Forster)](https://d8.nowka-forster.de) to secure funding for an innovative industrial signage system
+- contract work: desiging & developing a next.js website with refreshed corporate identity for a modern law practice
 
 *26yrs:*  
 - shipped a minimal [bitcoin wallet demo](https://vojio-software.vercel.app/) with live data using [srcl](https://github.com/vojio/sacred-software) terminal ui components  
@@ -46,13 +47,13 @@ here’s what i’ve been building over the years:
 - built and maintained [id-regensburg.de](https://id-regensburg.de), a showcase of standout student work  
 - deepened systems thinking across ui/ux and digital-physical intersections  
 
-*Miscellaneous:*  
+*miscellaneous:*  
 - started and stopped architecture at [tum](https://www.tum.de/) after realising code iterates faster  
 - was one of the earliest testers for christian selig’s [apollo](https://apolloapp.io/), sending [feedback](https://www.reddit.com/r/apolloapp/comments/31cg5a/report_bugs/) that shipped in the reddit client used by millions
-- one year computer science: grasped coding basics
+- one year studying internet computing at [https://www.uni-passau.de/](university of passau)
 - interned at [communiaсs](https://www.communiacs.de/), creating and animating [svg-icons](https://utfs.io/f/wrTz33Q14LG0Znvd5whIbR76cUno2VGAgOuXqBDiNTpCstlE), wireframes, and visual concepts for e-commerce sites like [eterna](https://www.eterna.de/de/), [bavaria-yachts](https://www.bavariayachts.com/de-de/), [knaus](https://www.knaus.com/de-de/wohnmobile/) and [einhell](https://www.einhell.de/)
 
-*14–16yrs:*  
+*earlier:*  
 - jailbreak enthusiast: dissected ios, installed cydia tweaks, debugged crashes, rolled back firmware  
 - ran private minecraft and wow realms, managing plugins and small friend communities  
 - built micro-sites and experiments (html, css, first js); all offline now, each sharpened my front-end instincts  
