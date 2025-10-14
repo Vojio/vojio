@@ -11,7 +11,7 @@ here’s what i’ve been building over the years:
 - game creator + community scout at [rosebud.ai](https://rosebud.ai/), shipping touch-first games with generative pipelines
 - started making music -> [makke macht](https://soundcloud.com/makke-macht)
 - contract work: designed & built a lightweight next.js [microsite (Nowka+Forster)](https://d8.nowka-forster.de) to secure funding for an innovative industrial signage system
-- contract work: desiging & developing a next.js website with refreshed corporate identity for a modern law practice
+- contract work: designing & developing a next.js website with refreshed corporate identity for a modern law practice
 
 *26yrs:*  
 - shipped a minimal [bitcoin wallet demo](https://vojio-software.vercel.app/) with live data using [srcl](https://github.com/vojio/sacred-software) terminal ui components  
