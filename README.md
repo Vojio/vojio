@@ -8,7 +8,7 @@ here’s what i’ve been building over the years:
 - built [shamir-secret-manager](https://github.com/vojio/shamir-secret-manager), a 500-line python cli for splitting and recovering seed phrases with shamir secret sharing  
 - crafting [obliso](https://www.obliso.com/), a rust + swift macos/ios app for easy and secure n-of-k seed management  
 - prototyping [mondecai](https://mondec.ai/), a local-first ai that plays conversations via monte-carlo search, private beta  
-- game creator + community scout at [rosebud.ai](https://rosebud.ai/), shipping touch-first games with generative pipelines
+- game creator + community scout at [rosebud.ai](https://rosebud.ai/), shipping touch-first games with generative pipelines: [Aim Arcade](https://x.com/makkemacht/status/1915610651646427585?s=20)
 - contract work: designed & built a lightweight next.js [microsite (Nowka+Forster)](https://d8.nowka-forster.de) to secure funding for an innovative industrial signage system
 - contract work: designing & developing a next.js website with refreshed corporate identity for a modern law practice
 - building a web-app called called [flux-animate](https://flux-animate.com/) which animates 7.108 open source icons with animation composability
