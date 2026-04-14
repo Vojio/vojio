@@ -4,7 +4,11 @@ hi i’m markus, i design and build software. i’m ready to collaborate with fo
 
 here’s what i’ve been building over the years:
 
-*27yrs-now:*  
+*28yrs-now:*
+- building [pv-gerauer-app](https://pv-gerauer-app.vercel.app/), a local-first next.js field app for on-site solar consultations, from customer intake and photo documentation to signatures and review-ready PDF exports
+- built a [dentist-trainer](https://github.com/Vojio/mobile), a mobile-first serious-gaming pwa + expo prototype for dental students to train diagnosis and treatment decisions across real patient cases, built for a healthcare hackathon
+
+*27yrs:*  
 - built [shamir-secret-manager](https://github.com/vojio/shamir-secret-manager), a 500-line python cli for splitting and recovering seed phrases with shamir secret sharing  
 - crafting [obliso](https://www.obliso.com/), a rust + swift macos/ios app for easy and secure n-of-k seed management  
 - prototyping [mondecai](https://mondec.ai/), a local-first ai that plays conversations via monte-carlo search, private beta  
