@@ -5,7 +5,7 @@ hi i’m markus, i design and build software experiences. i’m ready to collabo
 here’s what i’ve been building over the years:
 
 *28yrs–now:*
-- designing & building [Home-Bau](https://home-bau.com/), an image-led next.js website for a family-run property developer in regensburg, with an interactive project portfolio and immersive galleries.
+- designing & building [Home-Bau](https://home-bau.vercel.app/), an image-led next.js website for a family-run property developer in regensburg, with an interactive project portfolio and immersive galleries.
 - designed & built the [Homeier Solutions](https://homeier-solutions.de/) website, a next.js site for a creative agency in regensburg, bringing strategy, branding, photography, film, and recruiting into one clear visual system
 - building [pv-gerauer-app](https://pv-gerauer-app.vercel.app/), a local-first next.js field app for on-site solar consultations, from customer intake and photo documentation to signatures and review-ready PDF exports
 - built a [dentist-trainer](https://github.com/Vojio/mobile), a mobile-first serious-gaming pwa + expo prototype for dental students to train diagnosis and treatment decisions across real patient cases, built for a healthcare hackathon
